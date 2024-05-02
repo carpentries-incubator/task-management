@@ -68,10 +68,6 @@ and select elements from them that work well for you. There will be things that 
 for you specifically, or which are not relevant to working in the world of 
 research software development. 
 
-## Background
-
-This lesson was initially created at [Collaborations Workshop '24](https://www.software.ac.uk/workshop/collaborations-workshop-2024-cw24), an event hosted by the [Software Sustainability Institute (SSI)](https://www.software.ac.uk/).
-
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
 - Introducing people who work in research software to a range of tools and frameworks 
