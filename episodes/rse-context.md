@@ -62,7 +62,7 @@ Take 5 minutes to reflect about which of these challenges you relate to, and whi
 
 - RSEs face a number of specific challenges, which can impact their mental health.
 - These negative feelings are common and shared by many RSEs, and are the result of structural, rather than personal, issues.
-- Emergency support is available from the Samaritans at: 116-123 or via email: jo@smaritans.org  
+- Emergency support is available from the Samaritans at: 116-123 or via email: jo@samaritans.org  
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
