@@ -1,114 +1,80 @@
 ---
-title: "Using Markdown"
+title: "Task Management for Humans"
 teaching: 10
 exercises: 2
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
-- How do you write a lesson using Markdown and `{sandpaper}`?
+- How can you use tools and frameworks to work more effectively, not so you can do more 
+work for your employer but as a form of self care?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-- Explain how to use markdown with The Carpentries Workbench
-- Demonstrate how to include pieces of code, figures, and nested challenge blocks
+- Introduce various tools and frameworks.
+- Give examples of how these tools can be used to work more effectively.
+- Share case studies of how people have used these frameworks to improve their own 
+mental health.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Introduction
 
-This is a lesson created via The Carpentries Workbench. It is written in
-[Pandoc-flavored Markdown](https://pandoc.org/MANUAL.txt) for static files and
-[R Markdown][r-markdown] for dynamic files that can render code into output. 
-Please refer to the [Introduction to The Carpentries 
-Workbench](https://carpentries.github.io/sandpaper-docs/) for full documentation.
+Developing software for research can be challenging. Many people work on multiple projects, 
+often to tight deadlines, regularly working in fields that we know nothing about. On top of 
+that, we have to do training, keep up with constantly evolving technologies and try to fit 
+in extra activities to advance our careers. It will come as no surprise to most RSEs to hear 
+that anxiety, burnout and impostor syndrome are common in this industry.
 
-What you need to know is that there are three sections required for a valid
-Carpentries lesson:
+But what can we practically do to protect our mental health while working in this field? 
+We have little control over our actual workloads, and telling a almost-burned-out engineer 
+to do some yoga or mindfulness exercises is seldom well received.
 
- 1. `questions` are displayed at the beginning of the episode to prime the
-    learner for the content.
- 2. `objectives` are the learning objectives for an episode displayed with
-    the questions.
- 3. `keypoints` are displayed at the end of the episode to reinforce the
-    objectives.
+In this lesson, we will introduce you to a number of tools and frameworks that can help you 
+manage your workload more effectively. The aim here is not to boost your productivity per se, 
+but as a form of self-care; to help keep on top of everything, ease anxiety and help you to 
+leave the office at the end of the day and have a life outside of work, without constantly 
+worrying about tasks you may have forgotten or not completed.
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
+## Overview
 
-Inline instructor notes can help inform instructors of timing challenges
-associated with the lessons. They appear in the "Instructor View"
+In the first part of this lesson, we will introduce you to a number of tools and frameworks, 
+including:
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+- Examples of
+- Specific
+- Frameworks
 
-::::::::::::::::::::::::::::::::::::: challenge 
+We will also present some examples of how to perform common actions using these frameworks, 
+such as:
 
-## Challenge 1: Can you do it?
+- Task Generation
+- More
+- Others
 
-What is the output of this command?
+Finally, we will present some case studies from individuals who have used these frameworks 
+in their own work. These case studies will show how elements of these tools and frameworks 
+can be adopted and used to manage your workload and minimise the impact on your mental 
+health.
 
-```r
-paste("This", "new", "lesson", "looks", "good")
-```
+## Aims & Objectives
 
-:::::::::::::::::::::::: solution 
-
-## Output
- 
-```output
-[1] "This new lesson looks good"
-```
-
-:::::::::::::::::::::::::::::::::
-
-
-## Challenge 2: how do you nest solutions within challenge blocks?
-
-:::::::::::::::::::::::: solution 
-
-You can add a line with at least three colons and a `solution` tag.
-
-:::::::::::::::::::::::::::::::::
-::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Figures
-
-You can use standard markdown for static figures with the following syntax:
-
-`![optional caption that appears below the figure](figure url){alt='alt text for
-accessibility purposes'}`
-
-![You belong in The Carpentries!](https://raw.githubusercontent.com/carpentries/logo/master/Badge_Carpentries.svg){alt='Blue Carpentries hex person logo with no text.'}
-
-::::::::::::::::::::::::::::::::::::: callout
-
-Callout sections can highlight information.
-
-They are sometimes used to emphasise particularly important points
-but are also used in some lessons to present "asides": 
-content that is not central to the narrative of the lesson,
-e.g. by providing the answer to a commonly-asked question.
-
-::::::::::::::::::::::::::::::::::::::::::::::::
-
-
-## Math
-
-One of our episodes contains $\LaTeX$ equations when describing how to create
-dynamic reports with {knitr}, so we now use mathjax to describe this:
-
-`$\alpha = \dfrac{1}{(1 - \beta)^2}$` becomes: $\alpha = \dfrac{1}{(1 - \beta)^2}$
-
-Cool, right?
+We are not trying to present a one-size-fits-all solution. We also no not necessarily 
+suggest adopting these frameworks and sticking rigidly to them in their entirety. 
+As you will see from the case studies, the best solution is often to explore these frameworks 
+and select elements from them that work well for you. There will be things that don't work 
+for you specifically, or which are not relevant to working in the world of 
+research software development. 
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
-- Use `.md` files for episodes when you want static content
-- Use `.Rmd` files for episodes when you need to generate output
-- Run `sandpaper::check_lesson()` to identify any issues with your lesson
-- Run `sandpaper::build_lesson()` to preview your lesson locally
+- Introducing people who work in research software to a range of tools and frameworks 
+designed to help with task management, not to improve productivity but as a form of self care.
+- Give examples of how these tools can be used in the context of working as a software engineer 
+in academia.
+- Present case studies showing how people have adopted elements of these frameworks into their 
+working life and how/whether it has improved their mental health at work.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
-
-[r-markdown]: https://rmarkdown.rstudio.com/
