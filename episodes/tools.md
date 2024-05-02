@@ -46,8 +46,13 @@ A few examples of project management tools are:
 
 ### Second Brain tools
 
-These tools 
+These tools are usually adopted as a system to organise thoughts. It can be used a repoistory to document ideas, thoughts, learnings and store information. They are an extension of traditional notes applications but can be the same too.
 
+A few examples of such tools are:
+
+- Notion
+- Obsidian
+- Logseq
 
 ### To-do lists
 
