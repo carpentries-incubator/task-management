@@ -18,6 +18,8 @@ exercises: 5
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
+![Results of Dave Horsfall's RSE mental health survey (2022) to the question "Since working in the RSE community, which of the following negative feelings have troubled you at work?"](./fig/RSE-mental-health-survey-1.png){alt='Bar plot showing the answers to Dave Horsfall's RSE mental health survey (2022) to the question "Since working in the RSE community, which of the following negative feelings have troubled you at work?". The 3 most common negative feelings, each affecting more than 20% of the respondent, are "Feeling you're not up to the job", "Lack of control over workload", "Feeling you don't fit in".}
+
 ## Workload
 
 RSEs are often involved in complex projects involving multiple stakeholders, and sometimes in multiple projects at once. 
