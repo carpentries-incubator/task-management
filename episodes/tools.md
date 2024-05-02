@@ -20,12 +20,9 @@ exercises: 2
 
 ## Introduction
 
-- not exhaustive
-- not prescriptive
-- pick and choose
-- stick to it if it works already for you
-- not about the tool, but the process
+In this chapter, we present a list of tools. Our aim to showcase the types of tools that exist out there. This is not an exhaustive list, and, by mentioning particular examples, we are not expressing inherent preference, but merely showcasing what's available out there. We hope that this helps learners pick whatever suits their purposes best.
 
+If you already use a tool that works for you, stick to that! If you have a tool that you like, but isn't fully working for you, bear in mind it's not so much about what you choose, as it is about commiting to using one single tool and stick to a process. 
 
 ## Types of tools
 
