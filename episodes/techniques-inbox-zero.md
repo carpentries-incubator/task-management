@@ -59,24 +59,10 @@ Why not try right now to turn off email notifications. If you are using Windows 
 
 :::::::::::::::::::::::::::::::::::::::::::::::
 
-:::::::::::::::::::::::: solution 
-
-## Output
- 
-```output
-[1] "This new lesson looks good"
-```
-
-:::::::::::::::::::::::::::::::::
-
 
 ## Practice 2: Delete Junk e-mails
 
-:::::::::::::::::::::::: solution 
 
-You can add a line with at least three colons and a `solution` tag.
-
-:::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
