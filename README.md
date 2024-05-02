@@ -21,7 +21,7 @@ This lesson was initially created at
 [Collaborations Workshop '24](https://www.software.ac.uk/workshop/collaborations-workshop-2024-cw24), 
 an event hosted by the [Software Sustainability Institute (SSI)](https://www.software.ac.uk/).
 
-## Development
+## Development
 
 If you would like to contribute to the lesson, please feel free to open issues and pull requests.
 
