@@ -61,6 +61,7 @@ contact: 'vivid.zone0421@erambler.co.uk' # FIXME
 episodes: 
 - introduction.md
 - rse-context.md
+- tools.md
 
 # Information for Learners
 learners: 
