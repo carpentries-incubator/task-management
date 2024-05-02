@@ -51,6 +51,12 @@ These tools
 
 ### To-do lists
 
+To-do list tools are meant to help you organise your thoughts. Some examples of tools are:
+
+- A piece of paper and a pen 
+- Digital tools such as [Microsoft To Do]((https://to-do.office.com/tasks/)), [ToDoist]((https://todoist.com/home)), and [Tick Tick]((https://ticktick.com/)), which you can keep on your phone
+- Checklists which are integrated into more complex tools (e.g. both project management tools, such as Asana or Trello, and second brain tools such as Obsidian and Evernote, will have the checklist functionality which allows users to add to-do lists to "projects").
+
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
