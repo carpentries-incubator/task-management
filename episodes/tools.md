@@ -27,13 +27,29 @@ If you already use a tool that works for you, stick to that! If you have a tool 
 ## Types of tools
 
 - Project management tools
-    - Kanban boards
-    - Roadmaps
 - Second brain tools
 - To-do lists
 
 
 ### Project Management tools
+
+These tools can be used to manage projects and their different aspects such as task progress, timelines, priorities and assignments. They can be useful tools to coordinate teams working on the same project, but are also adaptable to be used individually.
+
+They can also offer multiple ways to visualise the tasks and issues. Kanban boards and roadmaps are popular structures for the same.
+
+A few examples of project management tools are:
+
+- Jira
+- GitHub Projects
+- Trello
+- Asana
+
+### Second Brain tools
+
+These tools 
+
+
+### To-do lists
 
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
