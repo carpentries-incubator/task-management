@@ -132,11 +132,9 @@ Cool, right?
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
-- Use `.md` files for episodes when you want static content
-- Use `.Rmd` files for episodes when you need to generate output
-- Run `sandpaper::check_lesson()` to identify any issues with your lesson
-- Run `sandpaper::build_lesson()` to preview your lesson locally
-
+- There are three broad types of task management tools: project management, second brain, and to-do lists
+- The tools we presented here are just a small sample of the vast choice of tools. Choose whatever works for you!
+- The tool you chose doesn't matter as much as committing to whatever tool or system works for you
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 [r-markdown]: https://rmarkdown.rstudio.com/
