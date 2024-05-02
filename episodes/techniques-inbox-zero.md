@@ -51,61 +51,18 @@ The Pareto principle, also known as the 80/20 rule, states that roughly 80 perce
 
 Because email notifications both create a distraction and often go ignored, we recommend you **turn off all email notifications**. Instead, dedicate short, specific time slots throughout the day for email management. This helps you value your time and focus your attention on your inbox without distractions so you can organize your messages quickly.
 
-```
+:::::::::::::::::::::::::::: hint
 Why not try right now to turn off email notifications. If you are using Windows 11 you can enable `do not disturb` mode like this:  
 ![](https://winpoin.com/wp-content/uploads/2022/11/Cara-Cepat-Mengaktifkan-Do-Not-Disturb-Mode-di-Windows-11-2-768x392.jpg)
 
-```
-
-:::::::::::::::::::::::: solution 
-
-## Output
- 
-```output
-[1] "This new lesson looks good"
-```
-
 :::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::
 
 
 ## Practice 2: Delete Junk e-mails
 
-:::::::::::::::::::::::: solution 
 
-You can add a line with at least three colons and a `solution` tag.
-
-:::::::::::::::::::::::::::::::::
-::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Figures
-
-You can use standard markdown for static figures with the following syntax:
-
-`![optional caption that appears below the figure](figure url){alt='alt text for
-accessibility purposes'}`
-
-![You belong in The Carpentries!](https://raw.githubusercontent.com/carpentries/logo/master/Badge_Carpentries.svg){alt='Blue Carpentries hex person logo with no text.'}
-
-::::::::::::::::::::::::::::::::::::: callout
-
-Callout sections can highlight information.
-
-They are sometimes used to emphasise particularly important points
-but are also used in some lessons to present "asides": 
-content that is not central to the narrative of the lesson,
-e.g. by providing the answer to a commonly-asked question.
-
-::::::::::::::::::::::::::::::::::::::::::::::::
-
-
-## Math
-
-One of our episodes contains $\LaTeX$ equations when describing how to create
-dynamic reports with {knitr}, so we now use mathjax to describe this:
-
-`$\alpha = \dfrac{1}{(1 - \beta)^2}$` becomes: $\alpha = \dfrac{1}{(1 - \beta)^2}$
-
-Cool, right?
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
@@ -116,4 +73,3 @@ Cool, right?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-[r-markdown]: https://rmarkdown.rstudio.com/
