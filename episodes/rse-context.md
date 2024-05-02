@@ -42,7 +42,8 @@ The technological landscape is evolving at a very rapid pace, and RSEs are somet
 
 ## Job insecurity
 
-Previously mentioned structural issues issues and stressors are compounded by the general **job insecurity** in academia **and** in the tech sector, the intersection of which corresponds to RSE jobs. Permanent position in academia are rare and subject to an intense competition, and the tech has seen massive lay-offs in 2021-2024.
+Previously mentioned structural issues issues and stressors are compounded by the general **job insecurity** in academia **and** in the tech sector, the intersection of which corresponds to RSE jobs.
+Permanent position in academia are rare and subject to an intense competition, and the tech has seen massive lay-offs in 2021-2024.
 
 ## Impostor syndrome
 
