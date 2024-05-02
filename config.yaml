@@ -61,7 +61,9 @@ contact: 'vivid.zone0421@erambler.co.uk' # FIXME
 episodes: 
 - introduction.md
 - rse-context.md
+- where-tasks-come-from-firehose.md
 - tools.md
+- techniques-inbox-zero.md
 
 # Information for Learners
 learners: 
